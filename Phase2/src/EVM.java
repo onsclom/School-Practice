@@ -367,8 +367,8 @@ public class EVM {
     //Resultof8*13
     System.out.println("Integer Result of 8 * 13 = " + operandStack.pop());
 
-    v1 = new LongValue(23);
-    v2 = new LongValue(7);
+    v1 = new LongValue(23L);
+    v2 = new LongValue(7L);
     operandStack.push(v1);
     operandStack.push(v2);
 
