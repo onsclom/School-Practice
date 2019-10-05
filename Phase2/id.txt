@@ -7,3 +7,5 @@ on csgfms.cs.unlv.edu
 
 Name                    Student ID              e-mail
 ----------------------------------------------------------------------
+Austin Merrick		2001003855		merrick@unlv.nevada.edu
+Nick Miller		200101660		millen4@unlv.nevada.edu
